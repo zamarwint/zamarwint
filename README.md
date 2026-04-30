@@ -20,7 +20,7 @@ I'm Zamar, a computer software engineer based in the Caribbean.
 I build digital experiences that are efficient, scalable, and reliable.
 
 My main tech stack is:
-* Vanilla HTML, CSS, JS
+* Vanilla HTML, CSS & JS
 * React
 * Vite
 * TypeScript
