@@ -31,6 +31,12 @@ The tools I use to assist my development include:
 * Figma
 * Git and GitHub.
 
+The AI tools I use include:
+* ChatGPT
+* Claude
+* Gemini
+* Google AI Studio
+
 I have some astounding projects on my page that you can take a look at, with more to be added soon.
 
 I am committed to learning and adapting to changes and new technologies.
