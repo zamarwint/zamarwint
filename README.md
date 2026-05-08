@@ -24,7 +24,7 @@ My main tech stack is:
 * React
 * Vite
 * TypeScript
-* Python (for backend)
+* Python & Node.js (for backend)
 
 The tools I use to assist my development include:
 * Canva
