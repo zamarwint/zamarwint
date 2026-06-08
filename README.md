@@ -19,19 +19,23 @@ I'm Zamar, a computer software engineer based in the Caribbean.
 
 I build digital experiences that are efficient, scalable, and reliable.
 
-My main tech stack is:
-* Vanilla HTML, CSS & JS
-* React
-* Vite
-* TypeScript
-* Python & Node.js (for backend)
+## My main tech stack is:
 
-The tools I use to assist my development include:
+#### Frontend:
+* React (Vite as the build tool)
+* TypeScript
+
+#### Backend:
+* NodeJS
+* Express
+
+#### When developing, I use:
 * Canva
 * Figma
-* Git and GitHub.
+* Git
+* Github
 
-The AI tools I use include:
+#### In this AI era, my favorite AI tools are:
 * ChatGPT
 * Claude
 * Gemini
