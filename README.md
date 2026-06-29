@@ -29,9 +29,11 @@ I build digital experiences that are efficient, scalable, and reliable.
 * NodeJS
 * Express
 
-#### When developing, I use:
+#### When designing, I use:
 * Canva
 * Figma
+
+#### For version control, I use:
 * Git
 * Github
 
