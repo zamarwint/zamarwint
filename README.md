@@ -22,12 +22,15 @@ I build digital experiences that are efficient, scalable, and reliable.
 ## My main tech stack is:
 
 #### Frontend:
-* React (Vite as the build tool)
+* React
 * TypeScript
 
 #### Backend:
 * NodeJS
 * Express
+
+#### Full-stack:
+* NextJS
 
 #### When designing, I use:
 * Canva
@@ -38,9 +41,9 @@ I build digital experiences that are efficient, scalable, and reliable.
 * Github
 
 #### In this AI era, my favorite AI tools are:
-* ChatGPT
 * Claude
 * Gemini
+* OpenAI's ChatGPT
 * Google AI Studio
 
 I have some astounding projects on my page that you can take a look at, with more to be added soon.
