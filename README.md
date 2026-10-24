@@ -15,41 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Zamar, a computer software engineer based in the Caribbean.
+Hello, I'm Zamar, a software engineer based in the Caribbean.
 
 I build digital experiences that are efficient, scalable, and reliable.
 
-## My main tech stack is:
+## My tech stack:
 
-#### Frontend:
 * React
-* TypeScript
-
-#### Backend:
-* NodeJS
-* Express
-
-#### Full-stack:
 * NextJS
+* TypeScript
+* Express
+* Git for version control
+* GitHub and Gitlab
+* Shadcn UI
+* HTML/CSS/JS
 
-#### When designing, I use:
+#### My design tools:
 * Canva
 * Figma
 
-#### For version control, I use:
-* Git
-* Github
-
-#### In this AI era, my favorite AI tools are:
+#### My AI tools:
+* ChatGPT
 * Claude
 * Gemini
-* OpenAI's ChatGPT
-* Google AI Studio
+* Antigravity
+* Grok
+* Cursor
 
-I have some astounding projects on my page that you can take a look at, with more to be added soon.
+I have some astounding projects on my page, with more coming soon.
 
-I am committed to learning and adapting to changes and new technologies.
+I am committed to learning and adapting to changes.
 
-I am currently learning more about React and its various libraries.
+I am currently learning full-stack web development.
 
-Feel free to contact me; the link is in my bio.
+Feel free to contact me, the links are on my profile page.
