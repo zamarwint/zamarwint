@@ -19,7 +19,7 @@ Hello, I'm Zamar, a software engineer based in the Caribbean.
 
 I build digital experiences that are efficient, scalable, and reliable.
 
-## My tech stack:
+## My tech stack
 
 * React
 * NextJS
@@ -30,11 +30,13 @@ I build digital experiences that are efficient, scalable, and reliable.
 * Shadcn UI
 * HTML/CSS/JS
 
-#### My design tools:
+## My design tools
+
 * Canva
 * Figma
 
-#### My AI tools:
+## My AI tools
+
 * ChatGPT
 * Claude
 * Gemini
