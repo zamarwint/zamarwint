@@ -40,9 +40,7 @@ I build digital experiences that are efficient, scalable, and reliable.
 * ChatGPT
 * Claude
 * Gemini
-* Antigravity
 * Grok
-* Cursor
 
 I have some astounding projects on my page, with more coming soon.
 
